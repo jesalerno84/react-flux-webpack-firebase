@@ -1,0 +1,16 @@
+{
+  "messages": {
+    "0": {
+      "message": "This is a message",
+      "date": "Wed, 08 Jul 2015 18:14:27 GMT",
+      "author": "some author",
+      "profilePic": "http://www.clayton-media.com/imagesINV/manufacturing/dhd/c981aaef-694f-466c-955b-fa5f99bdec81.png?width=2000&height=1125"
+    },
+    "1": {
+      "message": "This is another message",
+      "date": "Thu, 09 Jul 2015 18:14:27 GMT",
+      "author": "another author",
+      "profilePic": "http://www.clayton-media.com/imagesINV/manufacturing/dhd/c981aaef-694f-466c-955b-fa5f99bdec81.png?width=2000&height=1125"
+    }
+  }
+}
