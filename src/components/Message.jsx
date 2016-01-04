@@ -19,8 +19,8 @@ export default class Message extends React.Component {
     render() {
         return (
             <ListItem
-                leftAvatar={<Avatar src="http://www.clayton-media.com/imagesINV/manufacturing/dhd/c981aaef-694f-466c-955b-fa5f99bdec81.png?width=2000&height=1125"/>}
-            >{this.props.message}</ListItem>
+                leftAvatar={<Avatar src={this.props.message.profilePic}/>}
+            >{this.props.message.message}</ListItem>
         );
     }
 }
